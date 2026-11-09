@@ -1,0 +1,5 @@
+flask>=3,<4
+flask-socketio>=5.3,<6
+gevent>=24.2
+gevent-websocket>=0.10
+qrcode[pil]>=7.4
